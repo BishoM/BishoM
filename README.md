@@ -2,6 +2,8 @@
 ## I'm Moise BISHOBOKERUWIZEYE
 ### Full-Stack Software Developer
 
+###I'm an experienced Software Engineer with a demonstrated history of working in the information technology and technical support industry. Skilled in Maintenance & Repair, Networking, Android Development, Software Development, and Social Media. Strong engineering professional with a Advanced Diploma focused in Information Technology from Tumba College of Technology
+
 <!--
 **BishoM/BishoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
