@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=BishoM&style=flat-square&color=blue" alt=""/>
   </div>
   <br>
-<div id="HeaderTitile" align="center">
-  <h1>Hi there 👋 </h1>
-  </div>
   
   
 ---
