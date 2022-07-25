@@ -61,12 +61,14 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BishoM&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)]
+## &#x1f4c8; GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BishoM&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishoM&show_icons=true&theme=radical)
+]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishoM&layout=compact&theme=vision-friendly-dark)](https://github.com/BishoM/github-readme-stats)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishoM&show_icons=true&theme=radical)
+
 
 ---
 
