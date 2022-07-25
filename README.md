@@ -35,7 +35,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I try to solve problems on StackOverFlow and read tech articles.
 
 
 ---
@@ -55,6 +55,12 @@
 </div>
 
 ---
+
+<h2> Here is a random joke that'll make you laugh! </h2>
+<p><img align="center" src="https://readme-jokes.vercel.app/api" alt="Random joke" /></p>
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BishoM&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)]
 
