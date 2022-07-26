@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
 </div>
 
@@ -60,11 +61,9 @@
 ---
 
 ## &#x1f4c8; GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BishoM&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishoM&show_icons=true&theme=radical)
-]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishoM&layout=compact&theme=vision-friendly-dark)](https://github.com/BishoM/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BishoM&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishoM&layout=compact&theme=vision-friendly-dark)]<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishoM&show_icons=true&theme=radical)]
 <br>
 
 
