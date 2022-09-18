@@ -2,7 +2,7 @@
 ## I'm Moise BISHOBOKERUWIZEYE
 ### Full-Stack Software Developer
 
-#### I’m a professional Full-Stack software developer especially in Back-End technology with a demonstrated history of working in the information technology and technical support industry. Skilled in Software Development, Mobile App Development, and Social Media. I'm strong engineering professional with a Advanced Diploma focused in Information Technology from Tumba College of Technology.
+#### I’m a professional Full-Stack software developer especially in Back-End technology with a demonstrated history of working in the information technology and technical support industry. Skilled in Software Development, Mobile App Development, and Social Media. I'm strong engineering professional with a Advanced Diploma focused in Information Technology from Tumba College of Technology. I'm self motivated.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
