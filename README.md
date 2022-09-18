@@ -14,9 +14,9 @@
   <a href="https://www.instagram.com/bisho_moise">
     <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <!--<a href="https://web.facebook.com/BishMoise">
-    <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>-->
+  <a href="https://stackoverflow.com/users/19571197/shobi">
+    <img src="https://img.shields.io/badge/Stackoverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow Badge"/>
+  </a>
   <a href="https://twitter.com/BishoM_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -62,6 +62,10 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
+
+---
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/bishomoise"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bishomoise" /></a></p><br><br>
 
 ---
 
