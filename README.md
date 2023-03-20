@@ -37,7 +37,7 @@
 
 - :zap: In my free time, I try to solve problems on StackOverFlow and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moise-bishobokeruwizeye-8bb535229/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Moise-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moise-bishobokeruwizeye-8bb535229/)
 
 ---
 
